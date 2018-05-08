@@ -1,6 +1,6 @@
 qglobalshortcut
 ===============
-
+Qt5.7测试成功。 
 Qt global-shortcut class
 
 * supports Qt5.0 later.
